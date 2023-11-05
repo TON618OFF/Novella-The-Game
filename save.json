@@ -1,0 +1,14 @@
+{
+    "Kolden": {
+        "name": "Kolden",
+        "age": 16,
+        "hobby": "music",
+        "profession": "programmer"
+    },
+    "Hinagawa": {
+        "name": "Hinagawa",
+        "age": 16,
+        "hobby": "dances",
+        "profession": "programmer"
+    }
+}
